@@ -1,4 +1,4 @@
-## Hey!! Eu sou Gustavo Lima. Estudante de Jogos Digitais - Programador Web/Games | UI & UX Design
+## Hey!! Eu sou Gustavo Lima. Estudante de Jogos Digitais - Programador Web/Games
 
 - 🌱 construio pequenos projetos com JavaScript Puro, HTML e CSS. E também trabalho com o UI e UX design dos projetos
 - 💻 Estou atualmente na Faculdade de Jogos Digitais e me atualizando com CURSOS🎓 intensivos Onlines
