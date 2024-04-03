@@ -14,7 +14,7 @@
   <img align="center" alt="Guhlima01-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
           
   
-  <img align="right" alt="Rimuru" height="150" src="https://www.google.com/imgres?q=rimuru%204k&imgurl=https%3A%2F%2Fimage3.uhdpaper.com%2Fwallpaper%2Frimuru-tempest-tensei-shitara-slime-datta-ken-uhdpaper.com-4K-3.3298.jpg&imgrefurl=https%3A%2F%2Fwww.uhdpaper.com%2F2021%2F01%2F33298-rimuru-tempest-tensei-shitara.html&docid=daZ3stuaX5GHHM&tbnid=nGZ6FCqc-tM3PM&vet=12ahUKEwiBqanVuKaFAxVeq5UCHVQ2DaIQM3oECBUQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwiBqanVuKaFAxVeq5UCHVQ2DaIQM3oECBUQAA">
+  <img align="right" alt="Rimuru" height="150" src="https://i.pximg.net/img-master/img/2019/03/29/00/21/44/73923766_p0_master1200.jpg">
 
   
 </div>
