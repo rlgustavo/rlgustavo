@@ -1,7 +1,7 @@
 ## Hey!! Eu sou Gustavo Lima. Desenvolvedor de Jogos Digitais
 
-- 🌱 Desenvolvedor indie de pequenos Games.
-- 💻 Estou atualmente na Faculdade de Jogos Digitais e me atualizando com CURSOS🎓 intensivos Onlines
+- 🌱 Desenvolvedor indie Games.
+- 💻 Formado em Jogos Digitais pela FATEC SCS e Professor de Jogos Digitais🎓
 - 🎮 Estou disponivel para novos projetos no momento. Entre em contato comigo e marcamos uma conversa
 
 
