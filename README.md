@@ -2,7 +2,7 @@
 #Professor | Jogos Digitais | Back End
 
 - 🌱 +2 anos Como educador, ajudando crianças, adolescentes e adultos a desenvolver habilidades técnicas de Programação.
-- 💻 Formado em Jogos Digitais pela FATEC SCS e Professor de Jogos Digitais🎓
+- 💻 Formado em Jogos Digitais pela FATEC SCS 🎓
 - 🎮 Meu sonho é levar minha experiência e paixão por tecnologia e games para todos que desejam transformar suas vidas através da tecnologia.
 
 
