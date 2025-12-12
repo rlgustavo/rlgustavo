@@ -1,8 +1,9 @@
-## Hey!! Eu sou Gustavo Lima. Desenvolvedor de Jogos Digitais
+## Hey!! Eu sou Gustavo Lima.
+#Professor | Jogos Digitais | Back End
 
-- 🌱 Desenvolvedor indie Games.
+- 🌱 +2 anos Como educador, ajudando crianças, adolescentes e adultos a desenvolver habilidades técnicas de Programação.
 - 💻 Formado em Jogos Digitais pela FATEC SCS e Professor de Jogos Digitais🎓
-- 🎮 Estou disponivel para novos projetos no momento. Entre em contato comigo e marcamos uma conversa
+- 🎮 Meu sonho é levar minha experiência e paixão por tecnologia e games para todos que desejam transformar suas vidas através da tecnologia.
 
 
 <div style="display: inline_block"><br>
