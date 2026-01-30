@@ -1,5 +1,5 @@
 ## Hey!! Eu sou Gustavo Lima.
-#Professor | Jogos Digitais | Back End
+#Professor | Jogos Digitais | Back End Java & PHP
 
 - 🌱 +2 anos Como educador, ajudando crianças, adolescentes e adultos a desenvolver habilidades técnicas de Programação.
 - 💻 Formado em Jogos Digitais pela FATEC SCS 🎓
@@ -13,9 +13,6 @@
   <img align="center" alt="Guhlima01-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guhlima01-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Guhlima01-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-          
-  
-  
 </div>
   
 ##
