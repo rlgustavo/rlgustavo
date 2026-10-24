@@ -1,6 +1,6 @@
-# 👨‍💻 Gustavo Lima
+## 👨‍💻 Gustavo Lima - Instrutor
 
-Professor de Inteligência Artificial, Desenvolvimento Web e Games. 🚀
+Instrutor de Inteligência Artificial, Desenvolvimento Web e Games. 🚀
 
 Compartilho projetos, conhecimentos e experiências em programação, ajudando pessoas a transformar ideias em soluções tecnológicas.
 
