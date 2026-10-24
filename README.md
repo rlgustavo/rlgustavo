@@ -1,22 +1,13 @@
-## Hey!! Eu sou Gustavo Lima.
-#Professor | Jogos Digitais | Back End Java & PHP
+# 👨‍💻 Gustavo Lima
 
-- 🌱 +2 anos Como educador, ajudando crianças, adolescentes e adultos a desenvolver habilidades técnicas de Programação.
-- 💻 Formado em Jogos Digitais pela FATEC SCS 🎓
-- 🎮 Eu Levo minha experiência e paixão por tecnologia e games para todos que desejam transformar suas vidas através da tecnologia.
+Professor de Inteligência Artificial, Desenvolvimento Web e Games. 🚀
 
+Compartilho projetos, conhecimentos e experiências em programação, ajudando pessoas a transformar ideias em soluções tecnológicas.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guhlima01-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guhlima01-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Guhlima01-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guhlima01-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guhlima01-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-  <img align="center" alt="Guhlima01-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div>
-  
-##
+**Tecnologias que ensino:**
 
-  <a href="https://instagram.com/guhlima01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rlgustavo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,php,nodejs,unity,cs,git,github" alt="HTML, CSS, JavaScript, React, Bootstrap, Java, PHP, Node.js, Unity, C#, Git e GitHub" />
+</p>
+
+🔗 [LinkedIn](https://www.linkedin.com/in/rlGustavo) | [GitHub](https://github.com/rlgustavo) | [Itch.io](https://rlgustavo.itch.io/)
