@@ -1,13 +1,27 @@
-## 👨‍💻 Gustavo Lima - Instrutor
+🎮 Gustavo Lima | Game Developer
 
-Instrutor de Inteligência Artificial, Desenvolvimento Web e Games. 🚀
+Sou desenvolvedor de jogos em formação, com foco em Unity 3D, C# e desenvolvimento de experiências em Realidade Aumentada (AR) e Realidade Virtual (VR).
 
-Compartilho projetos, conhecimentos e experiências em programação, ajudando pessoas a transformar ideias em soluções tecnológicas.
+Atualmente, estudo no Avança Tech, aprimorando minhas habilidades em programação, desenvolvimento de jogos e novas tecnologias interativas.
 
-**Tecnologias que ensino:**
+Estou sempre buscando novos desafios, criando projetos e evoluindo minhas habilidades como Game Developer.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,java,php,nodejs,unity,cs,git,github" alt="HTML, CSS, JavaScript, React, Bootstrap, Java, PHP, Node.js, Unity, C#, Git e GitHub" />
-</p>
+🚀 Tecnologias e interesses
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rlGustavo) | [GitHub](https://github.com/rlgustavo) | [Itch.io](https://rlgustavo.itch.io/)
+Unity 3D
+
+C#
+
+Game Development
+
+Augmented Reality (AR)
+
+Virtual Reality (VR)
+
+🌐 Contato
+
+GitHub
+
+Itch.io
+
+"Transformando ideias em experiências interativas."
