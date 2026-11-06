@@ -1,3 +1,5 @@
-Estudante de Programação
+Professor de Programação e Inteligencia Artificial
 
-Principais ferramentas: React, Javascript, IA
+Gosto de Criar Jogos, Sites e Aplicativos.
+
+React, Javascript, Unity, Java, Python
