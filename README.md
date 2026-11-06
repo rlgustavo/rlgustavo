@@ -8,4 +8,4 @@ Atualmente sou professor no **Avança Tech**, compartilhando conhecimentos e aju
 
 ### 🛠️ Tecnologias e ferramentas
 
-![Skills](https://skillicons.dev/icons?i=unity,cs,python,js,react,git,github,vscode,visualstudio&theme=dark)
+![Skills](https://skillicons.dev/icons?i=unity,react)
